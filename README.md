@@ -6,16 +6,16 @@ systems, and large-scale service delivery with government, INGO, and funder part
 across emerging markets.
 
 ### What I'm doing now
-I lead product delivery for **[Connect](https://dimagi.com/connect)** at **Dimagi**, an
+I lead product delivery for **[Connect](https://dimagi.com/connect)** at Dimagi, an
 AI-enabled service-delivery platform operating across Sub-Saharan Africa and South East
-Asia. I'm running a program to scale the product from **1M to 100M verified visits**,
+Asia. I'm running a program to scale the product from 1M to 100M verified visits,
 building the partner-acquisition pathway, self-serve onboarding, and standard integration
 patterns for ministries of health, INGOs, and global funders.
 
 ### Past work
-- Led the product team behind one of the **world's largest mobile health systems**:
+- Led the product team behind one of the world's largest mobile health systems:
   700,000+ frontline workers across India, 60M+ beneficiaries, 85% monthly active usage.
-- Founded Dimagi's **Innovation Hub**, a product-incubation unit that expanded Dimagi's
+- Founded Dimagi's Innovation Hub, a product-incubation unit that expanded Dimagi's
   product offerings.
 - Worked across a range of health interventions.
 - Worked in EdTech and GovTech earlier in my career.
@@ -29,7 +29,7 @@ patterns for ministries of health, INGOs, and global funders.
 - Academic knowledge creation at the intersection of technology and development.
 
 ### How I build
-I'm hands-on with **Claude, Claude Code, Cursor, Playwright, and MCP** daily, automating
+I'm hands-on with Claude, Claude Code, Cursor, Playwright, and MCP daily, automating
 work across my role (partner selection, contracting, spec finalization, data analysis,
 partner comms) that would otherwise take a large team. I also build end-to-end: my current
 side project is **[AirAtlas](https://github.com/sarvesh-tewari/AirAtlas)**
