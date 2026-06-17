@@ -1,4 +1,4 @@
-# Hi, I'm Sarvesh 👋
+# Hi, I'm Sarvesh!
 
 Professionally, I build and scale digital products that help frontline workers reach the
 world's hardest-to-serve communities, working at the intersection of product, public
