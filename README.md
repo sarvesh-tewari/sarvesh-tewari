@@ -29,15 +29,15 @@ patterns for ministries of health, INGOs, and global funders.
 - Academic knowledge creation at the intersection of technology and development.
 
 ### How I build
-I'm hands-on with Claude, Claude Code, Cursor, Playwright, and MCP daily, automating
+- I started out as a software developer, building and maintaining high-volume data-warehouse systems on Teradata and Oracle. 
+These days I'm hands-on with Claude, Claude Code, Cursor, Playwright, and MCP daily, automating
 work across my role (partner selection, contracting, spec finalization, data analysis,
-partner comms) that would otherwise take a large team. I also build end-to-end: my current
-side project is **[AirAtlas](https://github.com/sarvesh-tewari/AirAtlas)**
+partner comms) that would otherwise take a large team. 
+- I also build end-to-end: my current side project is **[AirAtlas](https://github.com/sarvesh-tewari/AirAtlas)**
 ([live](https://sarvesh-tewari.github.io/AirAtlas/)), a fully serverless, open-source
 air-quality + weather dashboard for Indian cities (data from CPCB, OpenAQ, and Open-Meteo
 pulled via GitHub Actions, stored as Parquet, queried in-browser with DuckDB-WASM; React +
-Vite + TypeScript). A few more side projects are in the pipeline, which you'll hear about
-as I find time for them.
+Vite + TypeScript). A few more side projects are in the pipeline, which you'll hear soon.
 
 ### Elsewhere
 I actively engage with the academic community, and speak and publish at conferences
